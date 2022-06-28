@@ -11,3 +11,7 @@
 # child changes 1
 
 child changes 2
+
+child changes 3
+
+main changes 3
