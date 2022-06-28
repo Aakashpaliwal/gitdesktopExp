@@ -8,8 +8,4 @@
 
 # another parent change
 
-# parent change 2
-
 # child changes 1
-
-main changes 2
