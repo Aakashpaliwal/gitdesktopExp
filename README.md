@@ -8,8 +8,8 @@
 
 # another parent change
 
-<<<<<<< Updated upstream
 # parent change 2
-=======
+
 # child changes 1
->>>>>>> Stashed changes
+
+main changes 2
