@@ -25,3 +25,7 @@ main change 5
 child change 5
 
 main final change
+
+child final changes 1
+
+child final changes 2
