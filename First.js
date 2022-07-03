@@ -18,7 +18,5 @@ let arr = [
     name: "John",
   },
 ];
-
-//filter arr with id 1
 const filterArr = arr.filter((item) => item.id === 1);
 console.log("filterArr", filterArr);
