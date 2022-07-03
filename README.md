@@ -29,3 +29,5 @@ main final change
 child final changes 1
 
 child final changes 2
+
+This is parent2 branch change
